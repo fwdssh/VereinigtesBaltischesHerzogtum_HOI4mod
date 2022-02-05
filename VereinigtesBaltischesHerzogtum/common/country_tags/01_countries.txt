@@ -1,0 +1,3 @@
+KOS	= "countries/Kosovo.txt"
+
+BAL	= "countries/Baltic.txt"

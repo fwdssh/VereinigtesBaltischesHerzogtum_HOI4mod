@@ -1,0 +1,27 @@
+characters={
+	BAL_wilhelm_iii={
+		name=BAL_wilhelm_iii
+		portraits={
+			civilian={
+				large="gfx/leaders/BAL/wilhelm3.dds"
+			}
+			army={
+				large="gfx/leaders/BAL/wilhelm3.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits={  }
+			expire="1965.1.1.1"
+			id = 1000
+		}
+		field_marshal={
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=2
+			legacy_id= 1001
+		}
+	}
+}

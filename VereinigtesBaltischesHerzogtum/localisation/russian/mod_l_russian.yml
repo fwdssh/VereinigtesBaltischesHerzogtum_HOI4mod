@@ -1,0 +1,18 @@
+﻿l_russian:
+ BAL_fascism:0 "Рейхсгау Балтия"
+ BAL_fascism_DEF:0 "Рейхсгау Балтия"
+ BAL_democratic:0 "Обьединенная Балтийская республика"
+ BAL_democratic_DEF:0 "Обьединенная Балтийская республика"
+ BAL_neutrality:1 "Балтийское герцогство"
+ BAL_neutrality_DEF:1 "Балтийское герцогство"
+ BAL_communism:0 "Балтийский союз"
+ BAL_communism_DEF:0 "Балтийский союз"
+ BAL_fascism_ADJ:0 "Балтийск."
+ BAL_democratic_ADJ:0 "Балтийск."
+ BAL_neutrality_ADJ:0 "Балтийск."
+ BAL_communism_ADJ:0 "Балтийск."
+ BAL:0 "Балтия"
+ BAL_DEF:0 "Балтия"
+ BAL_ADJ:0 "Балтийск."
+ 
+ BAL_wilhelm_iii:0 "Вильгельм III"
